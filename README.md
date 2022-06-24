@@ -1,7 +1,7 @@
 ### hey there~ 👋
 
 - 🔭 I’m currently working on ... getting my degree :)
-- 🌱 I’m currently learning ... java
+- 🌱 I’m currently learning ... java, git, web design
 - 💬 Ask me about ... my cats!
 - 📫 How to reach me: ... @trxcxy on twitter
 - 😄 Pronouns: ... she/her
