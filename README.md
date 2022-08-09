@@ -2,6 +2,6 @@
 
 she/her
 
-java, git, python, and web design
+java, python, and web design
 
 @trxcxy on twitter
