@@ -1,4 +1,5 @@
-:cat: 
+🐈‍⬛
+
 My name is Tracey. I'm a recently graduated wannabe developer.
 
 Currently working in Java ☕, Python 🐍, and learning C++ and Unity for game development 🎮
