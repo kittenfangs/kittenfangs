@@ -1,7 +1,5 @@
 🐈‍⬛
 
-My name is Tracey. I'm a recently graduated wannabe developer.
+hi i'm tracey! i love learning and making things. 
 
-Currently working in Java ☕, Python 🐍, and learning C++ and Unity for game development 🎮
-
-Previous experience with certain web dev technologies such as JavaScript and React.js 
+java, python, js
